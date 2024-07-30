@@ -1,0 +1,15 @@
+.btn-table{
+    display: flex;
+    gap: 5px;
+}
+
+.button {
+    width: 80px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-form {
+    width: 140px;
+}
